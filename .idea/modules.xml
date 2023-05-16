@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Guess the number/Guess the number.iml" filepath="$PROJECT_DIR$/Guess the number/Guess the number.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java-practice.iml" filepath="$PROJECT_DIR$/.idea/java-practice.iml" />
       <module fileurl="file://$PROJECT_DIR$/new2/new2.iml" filepath="$PROJECT_DIR$/new2/new2.iml" />
     </modules>
